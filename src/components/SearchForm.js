@@ -25,7 +25,7 @@ export default function SearchForm() {
           <input
             placeholder='Search Here ...'
             type='text'
-            id='nanme'
+            id='name'
             ref={searchValue}
             onChange={searchCocktail}></input>
         </div>
